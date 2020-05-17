@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "336981699509",
+    "firebase_url": "https://e-placement-26ee7.firebaseio.com",
+    "project_id": "e-placement-26ee7",
+    "storage_bucket": "e-placement-26ee7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336981699509:android:717a429dc5345c356887fc",
+        "android_client_info": {
+          "package_name": "com.example.e_placement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336981699509-c6mhdg0cerev9vrsnma65ldh4r6q6brg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_placement",
+            "certificate_hash": "63f58b2565d27f6a549b4ce30b10708b6c579353"
+          }
+        },
+        {
+          "client_id": "336981699509-ffa58dtcn5kcmsg9j5s60j05jf2vc2f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgfbqkB2jd6-Qrwq5JLJkMy3AyUxJ3BI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336981699509-ffa58dtcn5kcmsg9j5s60j05jf2vc2f0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
